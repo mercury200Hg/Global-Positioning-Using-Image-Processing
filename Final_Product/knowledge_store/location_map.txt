@@ -1,0 +1,36 @@
+1 Main Gate
+2 Right Side of Round-about
+3 Swimming Pool
+4 Tennis Court
+5 Near Pavilion
+6 In front of Old Canteen
+7 Girl's Hostel
+8 Trafalger joining Cafeteria to Girl's Hostel
+9 Road Alongside Effer Stage
+10 Square near CC2
+11 Road joining CC2 to Main Gate
+12 Trafalger joining LT to CC1
+13 Between CC3 and Library
+14 CC3
+15 Library
+16 Cafeteria
+17 Lecture Theatre
+18 Trafalger joining CC2 to Cafeteria
+19 CC2
+20 Research Scholar Apartments
+21 Stadium to Health Centre
+22 Left of old gate round about
+23 Old Gate
+24 Dormitory to visitor's hostel
+25 In front of VH1
+26 In front of VH3
+27 In front of VH2
+28 Visitor's hostel to Girl's hostel
+29 Right side of Admin
+30 Admin Block
+31 Left side of Admin
+32 Main gate to New Audi
+33 Left of Audi
+34 New Audi
+35 Right of Audi
+36 CC1
