@@ -5,4 +5,4 @@ This program is not designed with intention of using it as an applicatino Softwa
 
 The repository contains the Presentation of the software and the Basic Netbeans Project.
 
-For complete project visit :- http://bit.ly/1V5Pend
+For complete project visit :- https://goo.gl/zTOHxz
